@@ -3,6 +3,13 @@
     "name": "Canvass",
     "version": "1.0",
 
+    "description": "Helps store item prices across multiple store pages.",
+
+    "icons": {
+        "48": "graphics/icon48.png",
+        "96": "graphics/icon96.png"
+    },    
+
     "background": {
         "scripts": ["background.js"]
     },
