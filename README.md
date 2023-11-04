@@ -1,8 +1,11 @@
 # canvass
 
+Video Demo:
+https://cs50.harvard.edu/x/2023/
+
 ## Description
 
-Canvass is a firefox extension that helps you "canvass" costs for specific item across multiple websites. The idea for canvass came to me while browsing for boardgames. Most of the time I keep multiple tabs open, checking all the sites that are near/deliver to my area. Through canvass, store pages and prices are saved and viewable as long as your current session is not terminated. You can also export your data to a csv file.
+Canvass is a firefox extension that helps you "canvass" costs for specific item across multiple websites. Through canvass, store pages and prices are saved and viewable as long as your current session is not terminated. You can also export your data to a csv file.
 
 ## Future Implementation
 
